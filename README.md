@@ -20,7 +20,7 @@ Usage of Tableau software are listed below:
 
 ###  Overview 
 
-UT Discount mart is a small supermarket owned by Mr. Utkarsh.  
+UT Discount mart is a small supermarket owned by Mr. Rishabh Thakur.  
 He wants a dashboard where he can track how well Discount Mart is doing for this year (in terms of Sales, Profit and Quantity
 Sold).  
 He would also like to know how well categories are performing as well as different regions.  
@@ -33,7 +33,6 @@ He has given us csv files from which we have to create a Dashboard for his quick
 
 Thus, we created below interactive dashboard as per his requirement. Now, he could switch and view different shipping stats for different months and years.   
 
-You can view UT Mart Sales Analytics Dashboard on my Tableau Public Profile link - https://public.tableau.com/profile/utkarsh.yadav6297#!/  
 
 ##  UT Mart Sales Analytics Dashboard
 
