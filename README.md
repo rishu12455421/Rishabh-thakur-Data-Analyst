@@ -16,24 +16,25 @@ Usage of Tableau software are listed below:
 - Ever since it was introduced, this data visualization tool is used for Business Intelligence industry. Organizations like Amazon, Walmart, Accenture, Lenovo, and so on widely use Tableau.  
 
 
-# Tesla Stock Price Analytics
+# Amazon Shipping Analytics
 
 ###  Overview 
 
-Tesla is an American electric vehicle and clean energy company. 
-An important shareholder is tired of receiving only monthly updates of the stock price. The shareholder would like to see any trends of the stock price specifically for the last 3 months. He also wants this data to be updated daily.
+Amazon Shipping is a company which ships a variety of FMCG (Fast Moving Consumer Goods) all over the world.
+
+The Shipping Manager doesn't have much visibility and doesn't know how many orders are processed and shipped on a monthly basis.
+He would like a dashboard of this where he selects a month and can tell how many orders are outstanding a day and where they should be shipped.
 
 He has given us csv files from which we have to create a Dashboard for his quick review so that he could take further decisions for the benefit of the company.
 
 Thus, we created below interactive dashboard as per his requirement. Now, he could switch and view different shipping stats for different months and years.   
 
-You can view Tesla Stock Price Analytics Dashboard on my Tableau Public Profile link - https://public.tableau.com/profile/utkarsh.yadav6297#!/  
+You can view Amazon Shipping Analytics Dashboard on my Tableau Public Profile link - https://public.tableau.com/profile/utkarsh.yadav6297#!/  
 
 
-##  Tesla Stock Price Analytics Dashboard
+##  Amazon Shipping Analytics Dashboard
 
-<img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/Tesla%20Stock%20Price/Sceenshots/Tesla%20Analytics%20Image.PNG" alt="SS 2"/>
-
+<img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/Amazon%20Shipping%20Analytics/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG" alt="SS 1"/>
 
 
 
